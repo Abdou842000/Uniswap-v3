@@ -1,5 +1,5 @@
 
-# README for Uniswap-v3 Liquidity Provision Strategy Repository
+# Uniswap-v3
 
 ## Overview
 This repository is a comprehensive project focusing on liquidity provision strategies for Uniswap v3, a decentralized exchange (DEX) operating in the decentralized finance (DeFi) ecosystem. The project has three primary objectives:
